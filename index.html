@@ -3,7 +3,7 @@
  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
  <meta content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes" name="viewport"/>
  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
- <link rel="stylesheet" href="https://rawcdn.githack.com/Wilson959/player/be5a5724b1577d549449bdd772c25c52d68c58ca/jwplayernetflix.css">
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vidstack/styles/defaults.min.css" />
  <head>
   <meta name="google-site-verification" content="HcK5WRXdeMDrGliZjCYxwzEr4Ruxhwny5ETVcI-3raU" />
    <style id="page-skin-1" type="text/css">
@@ -47,18 +47,7 @@ a.heading-link:hover{color:var(--black-color)}
 #form button:hover{opacity:.9}
 #copyright{color:var(--white-color);text-align:center}
 /*-- Player Style --*/
-#player{position:absolute;top:0;left:0;width:100%!important;height:100%!important;overflow:hidden}{font-family:var(--body-font)}
-.jwplayer .jw-rightclick .jw-rightclick-list {
 
-        border-radius: 1px;
-
-        list-style: none;
-
-        margin: 0;
-
-        padding: 0;
-
-        display: none;
  -->
   </style>
   </head>
@@ -68,39 +57,12 @@ a.heading-link:hover{color:var(--black-color)}
     <script type="text/javascript">
      const themeVariables={blogTitle:"player generator",blogUrl:"#",embedUrl:"https://wilson959.github.io/playergenerator",blogId:"1985928809944871046",generateButton:"Generate",copyButton: "Copy"}
     </script>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/vidstack/dist/cdn/prod.min.js"></script>
     
-    <script type="text/javascript">
-     //<![CDATA[
-const configOptions = {
-    licenseKey: "U2FsdGVkX1+P/MRVWKPkfhH3GiZKrPaepJH0FMqyf41rr6wCLQStG+GRtiZPT2eO",
-        playerImageCover: {
-        show: true,
-        image: ""
-    },
-    playerWatermark: {
-        logo: "",
-        position: "top-left"
-    },
-    vastAds: {
-        show: true,
-        vastXmlTag: "",
-        skipoffset: 5,
-        customText: {
-            loadingAd: "Loading ad...",
-            admessage: "",
-            skipmessage: "¿Do you want to skip this ad??",
-            skiptext: "Skip advertisement"
-        }
-    }
-};
-     //]]>
-    </script>
-    </div>
   </div>
   <div class="no-items section" id="player">
   </div>
-   <script src='https://rawcdn.githack.com/Wilson959/player/24618c7c45fdf35e15db7a0312f995a8062e7eac/jwplayer.js'></script>
-  </script>
+   
   <script type="text/javascript">
    //<![CDATA[
 /*! CryptoJS - v4.1.1 */
