@@ -10,7 +10,7 @@
 var jwDefaults = {
   "aspectratio": "16:9",
   "autostart": false,
-  "abouttext": "TELUGUFLIX",
+  "abouttext": "Teluguflix",
   "aboutlink": "https://teluguflix.ct.ws",
   "cast": {},
   "controls": true,
