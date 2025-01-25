@@ -1,5 +1,3 @@
-
-
 /*!
    JW Player version 8.36.4
    Copyright (c) 2024, JW Player, All Rights Reserved
@@ -12,7 +10,7 @@
 
 var jwDefaults = {
   "aspectratio": "16:9",
-  "autostart": true,
+  "autostart": false,
   "controls": true,
   "abouttext": "TELUGUFLIX",
   "aboutlink": "https://teluguflix.ct.ws",
