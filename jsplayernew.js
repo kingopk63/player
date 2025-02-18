@@ -1,6 +1,6 @@
 /*!
    JW Player version 8.36.4
-   Copyright (c) 2024, JW Player, All Rights Reserved
+   Copyright (c) 2025, JW Player, All Rights Reserved
    This source code and its use and distribution is subject to the terms
    and conditions of the applicable license agreement.
    https://www.jwplayer.com/tos/
@@ -13,7 +13,7 @@ var jwDefaults = {
   "autostart": false,
   "controls": true,
   "abouttext": "TELUGUFLIX",
-  "aboutlink": "https://teluguflix.ct.ws",
+  "aboutlink": "https://teluguflix.ct.ws/home",
   "displaydescription": false,
   "displaytitle": false,
   "height": 260,
@@ -21,7 +21,7 @@ var jwDefaults = {
   "mute": false,
   "ph": 1,
   "pid": "IDzF9Zmk",
-  "playbackRateControls": false,
+  "playbackRateControls": true,
   "preload": "metadata",
   "repeat": false,
   "stretching": "uniform",
