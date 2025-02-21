@@ -942,3 +942,14 @@ Icone de Share.
   background-size: contain;
   background-repeat: no-repeat;
 }
+.jwplayer .jw-rightclick .jw-rightclick-list {
+
+        border-radius: 1px;
+
+        list-style: none;
+
+        margin: 0;
+
+        padding: 0;
+
+        display: none;
