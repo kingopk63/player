@@ -28,10 +28,3 @@ var jwDefaults = {
   "width": "100%"
 };
 jwplayer.defaults = jwDefaults;
-jwplayer .jw-rightclick .jw-rightclick-list {
-        border-radius: 1px;
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        display: none;
-}
