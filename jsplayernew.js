@@ -34,3 +34,4 @@ jwplayer.defaults = jwDefaults;
         margin: 0;
         padding: 0;
         display: none;
+}
