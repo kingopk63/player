@@ -13,6 +13,8 @@ var jwDefaults = {
   "autostart": false,
   "controls": true,
   "displaydescription": false,
+  "abouttext": "TELUGUFLIX",
+  "aboutlink": "https://teluguflix.zya.me",
   "displaytitle": false,
   "height": 260,
   "key": "r/klsGLfDBj400bVBdHzVoruHcjqDwBlcCIZYcnLS+OhxO0dS/UScVLTcePusZ0w",
