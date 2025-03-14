@@ -12,8 +12,6 @@ var jwDefaults = {
   "aspectratio": "16:9",
   "autostart": false,
   "controls": true,
-  "abouttext": "TELUGUFLIX",
-  "aboutlink": "https://teluguflix.zya.me",
   "displaydescription": false,
   "displaytitle": false,
   "height": 260,
